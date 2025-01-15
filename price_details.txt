@@ -4,3 +4,4 @@ Bed         5000
 Table       7000
 Lamp        800
 Sofa        1000
+TeaPoi      500
